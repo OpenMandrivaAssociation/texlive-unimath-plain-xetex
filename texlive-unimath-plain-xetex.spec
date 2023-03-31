@@ -1,6 +1,6 @@
 Name:		texlive-unimath-plain-xetex
 Version:	64951
-Release:	1
+Release:	2
 Summary:	OpenType math support in (plain) XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unimath-plain-xetex
